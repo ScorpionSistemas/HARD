@@ -1,0 +1,38 @@
+C:\Users\Diego\Desktop\Curso net samantha\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe
+C:\Users\Diego\Desktop\Curso net samantha\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.pdb
+C:\Users\Diego\Desktop\Curso net samantha\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.xml
+C:\Users\Diego\Desktop\Curso net samantha\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Curso net samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.Resources.resources
+C:\Users\Diego\Desktop\Curso net samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.vbproj.GenerateResource.Cache
+C:\Users\Diego\Desktop\Curso net samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.exe
+C:\Users\Diego\Desktop\Curso net samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.xml
+C:\Users\Diego\Desktop\Curso net samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.pdb
+C:\Users\Diego\Desktop\Curso net samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmIngresoUsu.resources
+C:\Users\Diego\Desktop\Curso net samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmModuloABMUsuarios.resources
+C:\Users\Diego\Desktop\Curso net samantha\Módulo Usuario\Módulo Usuario\bin\Debug\HARD_Usuarios.accdb
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.exe
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.xml
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.pdb
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.pdb
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.xml
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmIngresoUsu.resources
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmModuloABMUsuarios.resources
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.Resources.resources
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.vbproj.GenerateResource.Cache
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\HARD.accdb
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.exe
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.xml
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.pdb
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\HARD.accdb
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.pdb
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.xml
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmIngresoUsu.resources
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmModuloABMUsuarios.resources
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.Resources.resources
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.vbproj.GenerateResource.Cache
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe.config
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmMenu.resources

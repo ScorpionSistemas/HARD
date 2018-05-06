@@ -1,0 +1,829 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{124685BD-99DE-4F9D-8355-D64F9DDD07DF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>HARD_INSUMOS_INFORMATICOS.My.MyApplication</StartupObject>
+    <RootNamespace>HARD_INSUMOS_INFORMATICOS</RootNamespace>
+    <AssemblyName>HARD insumos informaticos</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationIcon>hardware.ico</ApplicationIcon>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>HARD insumos informaticos.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>HARD insumos informaticos.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="crimpcuit.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crimpcuit.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CRImpListado.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CRImpListado.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CRImprLocalidad.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CRImprLocalidad.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crREPOImprTotalClientes.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crREPOImprTotalClientes.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crREPOImprTotalProductos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crREPOImprTotalProductos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crREPOImprTotalProveed.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crREPOImprTotalProveed.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crREPOImprTotalUsuarios.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crREPOImprTotalUsuarios.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crREPOImprTotalVentas.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crREPOImprTotalVentas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalCodPRODUCTOS.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalCodPRODUCTOS.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalDetPRODUCTOS.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalDetPRODUCTOS.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalProveedores.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalProveedores.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalVenFactura.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalVenFactura.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalVenFecha.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalVenFecha.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalVenGeneral.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalVenGeneral.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalVenProducto.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalVenProducto.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FrmCLIClientes.Designer.vb">
+      <DependentUpon>FrmCLIClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCLIClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCLIcuit.Designer.vb">
+      <DependentUpon>FrmCLIcuit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCLIcuit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCLIimpCuit.Designer.vb">
+      <DependentUpon>FrmCLIimpCuit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCLIimpCuit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCLIimpLocalidad.Designer.vb">
+      <DependentUpon>frmCLIimpLocalidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCLIimpLocalidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCLIlistado.Designer.vb">
+      <DependentUpon>FrmCLIlistado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCLIlistado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCLIlocalidad.Designer.vb">
+      <DependentUpon>FrmCLIlocalidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCLIlocalidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPRODImpConsulCodPRODUCTOS.Designer.vb">
+      <DependentUpon>FrmPRODImpConsulCodPRODUCTOS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPRODImpConsulCodPRODUCTOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmImpConsulDetalles.Designer.vb">
+      <DependentUpon>FrmImpConsulDetalles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmImpConsulDetalles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmImpListado.Designer.vb">
+      <DependentUpon>FrmImpListado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmImpListado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPROVBusquedaLocalidadProv.Designer.vb">
+      <DependentUpon>frmPROVBusquedaLocalidadProv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPROVBusquedaLocalidadProv.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPROVListadoProveedores.Designer.vb">
+      <DependentUpon>frmPROVListadoProveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPROVListadoProveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPROVProveedores.Designer.vb">
+      <DependentUpon>frmPROVProveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPROVProveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPROVReporteLocalidadProveedor.Designer.vb">
+      <DependentUpon>frmPROVReporteLocalidadProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPROVReporteLocalidadProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPROVReporteProveedorRazonSocial.Designer.vb">
+      <DependentUpon>frmPROVReporteProveedorRazonSocial.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPROVReporteProveedorRazonSocial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmREPOImprTotalClientes.Designer.vb">
+      <DependentUpon>frmREPOImprTotalClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmREPOImprTotalClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmREPOImprTotalProductos.Designer.vb">
+      <DependentUpon>frmREPOImprTotalProductos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmREPOImprTotalProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmREPOImprTotalProveed.Designer.vb">
+      <DependentUpon>frmREPOImprTotalProveed.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmREPOImprTotalProveed.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmREPOImprTotalUsuarios.Designer.vb">
+      <DependentUpon>frmREPOImprTotalUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmREPOImprTotalUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmREPORImprTotalVentas.Designer.vb">
+      <DependentUpon>frmREPORImprTotalVentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmREPORImprTotalVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUSUBuscarUsuario.Designer.vb">
+      <DependentUpon>frmUSUBuscarUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUSUBuscarUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPRODBuscarCodProducto.Designer.vb">
+      <DependentUpon>FrmPRODBuscarCodProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPRODBuscarCodProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPRODBuscarDetalle.Designer.vb">
+      <DependentUpon>FrmPRODBuscarDetalle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPRODBuscarDetalle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPRODBuscarProducto.Designer.vb">
+      <DependentUpon>FrmPRODBuscarProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPRODBuscarProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmALLIngresoUsu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmALLIngresoUsu.Designer.vb">
+      <DependentUpon>frmALLIngresoUsu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmALLMenu.Designer.vb">
+      <DependentUpon>frmALLMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmALLMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUSUABMUsuarios.Designer.vb">
+      <DependentUpon>frmUSUABMUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUSUABMUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPRODProductos.Designer.vb">
+      <DependentUpon>FrmPRODProductos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPRODProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVENConsFactura.Designer.vb">
+      <DependentUpon>frmVENConsFactura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVENConsFactura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVENConsFecha.Designer.vb">
+      <DependentUpon>frmVENConsFecha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVENConsFecha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVENConsltageneral.Designer.vb">
+      <DependentUpon>frmVENConsltageneral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVENConsltageneral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVENConsProducto.Designer.vb">
+      <DependentUpon>frmVENConsProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVENConsProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVENConsultas.Designer.vb">
+      <DependentUpon>frmVENConsultas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVENConsultas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVENDcliente.Designer.vb">
+      <DependentUpon>frmVENDcliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVENDcliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVenImpFactura.Designer.vb">
+      <DependentUpon>frmVenImpFactura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVenImpFactura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVenImpFecha.Designer.vb">
+      <DependentUpon>frmVenImpFecha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVenImpFecha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVENImpProducto.Designer.vb">
+      <DependentUpon>frmVENImpProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVENImpProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVenIprimGeneral.Designer.vb">
+      <DependentUpon>FrmVenIprimGeneral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVenIprimGeneral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVENListaproductos.Designer.vb">
+      <DependentUpon>frmVENListaproductos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVENListaproductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVENPrincipal.Designer.vb">
+      <DependentUpon>frmVENPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVENPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="crimpcuit.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crimpcuit.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRImpListado.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CRImpListado.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRImprLocalidad.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CRImprLocalidad.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crREPOImprTotalClientes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crREPOImprTotalClientes.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crREPOImprTotalProductos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crREPOImprTotalProductos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crREPOImprTotalProveed.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crREPOImprTotalProveed.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crREPOImprTotalUsuarios.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crREPOImprTotalUsuarios.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crREPOImprTotalVentas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crREPOImprTotalVentas.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalCodPRODUCTOS.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalCodPRODUCTOS.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalDetPRODUCTOS.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalDetPRODUCTOS.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalProveedores.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalProveedores.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalVenFactura.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalVenFactura.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalVenFecha.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalVenFecha.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalVenGeneral.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalVenGeneral.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalVenProducto.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalVenProducto.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCLIClientes.resx">
+      <DependentUpon>FrmCLIClientes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCLIcuit.resx">
+      <DependentUpon>FrmCLIcuit.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCLIimpCuit.resx">
+      <DependentUpon>FrmCLIimpCuit.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCLIimpLocalidad.resx">
+      <DependentUpon>frmCLIimpLocalidad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCLIlistado.resx">
+      <DependentUpon>FrmCLIlistado.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCLIlocalidad.resx">
+      <DependentUpon>FrmCLIlocalidad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPRODImpConsulCodPRODUCTOS.resx">
+      <DependentUpon>FrmPRODImpConsulCodPRODUCTOS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmImpConsulDetalles.resx">
+      <DependentUpon>FrmImpConsulDetalles.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmImpListado.resx">
+      <DependentUpon>FrmImpListado.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPROVBusquedaLocalidadProv.resx">
+      <DependentUpon>frmPROVBusquedaLocalidadProv.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPROVListadoProveedores.resx">
+      <DependentUpon>frmPROVListadoProveedores.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPROVProveedores.resx">
+      <DependentUpon>frmPROVProveedores.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPROVReporteLocalidadProveedor.resx">
+      <DependentUpon>frmPROVReporteLocalidadProveedor.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPROVReporteProveedorRazonSocial.resx">
+      <DependentUpon>frmPROVReporteProveedorRazonSocial.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmREPOImprTotalClientes.resx">
+      <DependentUpon>frmREPOImprTotalClientes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmREPOImprTotalProductos.resx">
+      <DependentUpon>frmREPOImprTotalProductos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmREPOImprTotalProveed.resx">
+      <DependentUpon>frmREPOImprTotalProveed.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmREPOImprTotalUsuarios.resx">
+      <DependentUpon>frmREPOImprTotalUsuarios.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmREPORImprTotalVentas.resx">
+      <DependentUpon>frmREPORImprTotalVentas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUSUBuscarUsuario.resx">
+      <DependentUpon>frmUSUBuscarUsuario.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPRODBuscarCodProducto.resx">
+      <DependentUpon>FrmPRODBuscarCodProducto.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPRODBuscarDetalle.resx">
+      <DependentUpon>FrmPRODBuscarDetalle.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPRODBuscarProducto.resx">
+      <DependentUpon>FrmPRODBuscarProducto.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmALLIngresoUsu.resx">
+      <DependentUpon>frmALLIngresoUsu.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmALLMenu.resx">
+      <DependentUpon>frmALLMenu.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUSUABMUsuarios.resx">
+      <DependentUpon>frmUSUABMUsuarios.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPRODProductos.resx">
+      <DependentUpon>FrmPRODProductos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVENConsFactura.resx">
+      <DependentUpon>frmVENConsFactura.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVENConsFecha.resx">
+      <DependentUpon>frmVENConsFecha.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVENConsltageneral.resx">
+      <DependentUpon>frmVENConsltageneral.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVENConsProducto.resx">
+      <DependentUpon>frmVENConsProducto.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVENConsultas.resx">
+      <DependentUpon>frmVENConsultas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVENDcliente.resx">
+      <DependentUpon>frmVENDcliente.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVenImpFactura.resx">
+      <DependentUpon>frmVenImpFactura.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVenImpFecha.resx">
+      <DependentUpon>frmVenImpFecha.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVENImpProducto.resx">
+      <DependentUpon>frmVENImpProducto.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVenIprimGeneral.resx">
+      <DependentUpon>FrmVenIprimGeneral.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVENListaproductos.resx">
+      <DependentUpon>frmVENListaproductos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVENPrincipal.resx">
+      <DependentUpon>frmVENPrincipal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\be0d90adc07b618bb80cf60cf1e5010f--computer-repair-services-laptop-repair.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agregar usuario logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modificar usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar usuario1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar usuario logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agregar icono cruz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agregar icono cruz chiquito.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modificar icono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar icono cruz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar_icono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agregar icono cruz.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar icono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modificar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ELIMINAR.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscarchico.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupa1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario-registrados.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\57776f817f6566ce110c90eadfb5dad0434e5229_original1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\limpiar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\limpiar chico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modificar icono chico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar icono cruz chico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-dialog-cancel-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Check-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\71.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consultas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\freelance-writer1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\57776f817f6566ce110c90eadfb5dad0434e5229_original.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="hardware.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

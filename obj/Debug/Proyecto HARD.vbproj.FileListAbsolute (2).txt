@@ -1,0 +1,297 @@
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\HARD.accdb
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe.config
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.pdb
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.xml
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmIngresoUsu.resources
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmMenu.resources
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmModuloABMUsuarios.resources
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.Resources.resources
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Proyecto HARD.vbproj.GenerateResource.Cache
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.exe
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.xml
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.pdb
+C:\Users\snewman\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe.config
+C:\Users\snewman\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.exe
+C:\Users\snewman\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.xml
+C:\Users\snewman\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.pdb
+C:\Users\snewman\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\HARD.accdb
+C:\Users\snewman\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe
+C:\Users\snewman\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.pdb
+C:\Users\snewman\Desktop\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.xml
+C:\Users\snewman\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\snewman\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmIngresoUsu.resources
+C:\Users\snewman\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmMenu.resources
+C:\Users\snewman\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmModuloABMUsuarios.resources
+C:\Users\snewman\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.Resources.resources
+C:\Users\snewman\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Proyecto HARD.vbproj.GenerateResource.Cache
+C:\Users\aula 18\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmBuscar.resources
+C:\Users\snewman\Desktop\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmBuscar.resources
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe.config
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.exe
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.xml
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.pdb
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\bin\Debug\HARD.accdb
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.pdb
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.xml
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmBuscar.resources
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmIngresoUsu.resources
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmMenu.resources
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmModuloABMUsuarios.resources
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.Resources.resources
+C:\Users\Diego\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Proyecto HARD.vbproj.GenerateResource.Cache
+C:\Users\Aula 18\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe.config
+C:\Users\Aula 18\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.exe
+C:\Users\Aula 18\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.xml
+C:\Users\Aula 18\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.pdb
+C:\Users\Aula 18\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe
+C:\Users\Aula 18\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.pdb
+C:\Users\Aula 18\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.xml
+C:\Users\Aula 18\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aula 18\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmBuscar.resources
+C:\Users\Aula 18\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmIngresoUsu.resources
+C:\Users\Aula 18\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmMenu.resources
+C:\Users\Aula 18\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmModuloABMUsuarios.resources
+C:\Users\Aula 18\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.Resources.resources
+C:\Users\Aula 18\Desktop\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Proyecto HARD.vbproj.GenerateResource.Cache
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe.config
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.exe
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.xml
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.pdb
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.pdb
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.xml
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmBuscar.resources
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmIngresoUsu.resources
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmMenu.resources
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmModuloABMUsuarios.resources
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.Resources.resources
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\Módulo Usuario\obj\Debug\Proyecto HARD.vbproj.GenerateResource.Cache
+C:\Users\aula18\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe.config
+C:\Users\aula18\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.exe
+C:\Users\aula18\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.xml
+C:\Users\aula18\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.pdb
+C:\Users\aula18\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe
+C:\Users\aula18\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.pdb
+C:\Users\aula18\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.xml
+C:\Users\aula18\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aula18\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmBuscar.resources
+C:\Users\aula18\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmIngresoUsu.resources
+C:\Users\aula18\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmMenu.resources
+C:\Users\aula18\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmModuloABMUsuarios.resources
+C:\Users\aula18\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.Resources.resources
+C:\Users\aula18\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Proyecto HARD.vbproj.GenerateResource.Cache
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe.config
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.exe
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.xml
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.pdb
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmBuscar.resources
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmIngresoUsu.resources
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmMenu.resources
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmModuloABMUsuarios.resources
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.Resources.resources
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Proyecto HARD.vbproj.GenerateResource.Cache
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.pdb
+C:\Users\Diego\Desktop\Proyecto Final\Samantha\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.xml
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe.config
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.exe
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.xml
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.pdb
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmIngresoUsu.resources
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmMenu.resources
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmModuloABMUsuarios.resources
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.Resources.resources
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Proyecto HARD.vbproj.GenerateResource.Cache
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.pdb
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.xml
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmBuscarUsuario.resources
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.FrmBuscarCodProducto.resources
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.FrmBuscarDetalle.resources
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.FrmBuscarProducto.resources
+C:\Users\aula 18\Desktop\Hard\Samantha\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmProductos.resources
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe.config
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.exe
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.xml
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.pdb
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.pdb
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.xml
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmBuscarUsuario.resources
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.FrmBuscarCodProducto.resources
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.FrmBuscarDetalle.resources
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.FrmBuscarProducto.resources
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmIngresoUsu.resources
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmMenu.resources
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmModuloABMUsuarios.resources
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmProductos.resources
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.Resources.resources
+C:\Users\Gabriel\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Proyecto HARD.vbproj.GenerateResource.Cache
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe.config
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.exe
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.xml
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo Usuario.pdb
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.exe
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.pdb
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\Módulo Usuario.xml
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmBuscarUsuario.resources
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.FrmBuscarCodProducto.resources
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.FrmBuscarDetalle.resources
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.FrmBuscarProducto.resources
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmIngresoUsu.resources
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmMenu.resources
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmModuloABMUsuarios.resources
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.frmProductos.resources
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Módulo_Usuario.Resources.resources
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Proyecto HARD.vbproj.GenerateResource.Cache
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\Modulo Usuario.exe.config
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumor informaticos.exe.config
+C:\Users\snewman\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.exe.config
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.exe.config
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmUSUBuscarUsuario.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmPRODBuscarCodProducto.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmPRODBuscarProducto.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmALLIngresoUsu.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmALLMenu.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmUSUABMUsuarios.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmPRODProductos.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.Resources.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Proyecto HARD.vbproj.GenerateResource.Cache
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.exe
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.pdb
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.xml
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD insumos informaticos.exe
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD insumos informaticos.xml
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD insumos informaticos.pdb
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmPRODBuscarDetalle.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIClientes.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIcuit.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIlistado.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIlocalidad.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmPROVBusquedaLocalidadProv.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmPROVListadoProveedores.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmPROVProveedores.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsFactura.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsFecha.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsltageneral.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsProducto.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsultas.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENDcliente.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENListaproductos.resources
+C:\Users\snewman\Desktop\Proyecto Final\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENPrincipal.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.exe.config
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD insumos informaticos.exe
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD insumos informaticos.xml
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD insumos informaticos.pdb
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.exe
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.pdb
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.xml
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIClientes.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIcuit.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIlistado.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIlocalidad.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmPROVBusquedaLocalidadProv.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmPROVListadoProveedores.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmPROVProveedores.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmUSUBuscarUsuario.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmPRODBuscarCodProducto.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmPRODBuscarDetalle.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmPRODBuscarProducto.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmALLIngresoUsu.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmALLMenu.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmUSUABMUsuarios.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmPRODProductos.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsFactura.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsFecha.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsltageneral.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsProducto.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsultas.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENDcliente.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENListaproductos.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENPrincipal.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.Resources.resources
+C:\Users\Diego\Desktop\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Proyecto HARD.vbproj.GenerateResource.Cache
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.exe.config
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD insumos informaticos.exe
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD insumos informaticos.xml
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD insumos informaticos.pdb
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.exe
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.pdb
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.xml
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIClientes.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIcuit.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIlistado.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIlocalidad.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmImpConsulCodPRODUCTOS.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmImpConsulDetalles.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmPROVBusquedaLocalidadProv.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmPROVListadoProveedores.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmPROVProveedores.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmUSUBuscarUsuario.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmPRODBuscarCodProducto.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmPRODBuscarDetalle.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmPRODBuscarProducto.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmALLIngresoUsu.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmALLMenu.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmUSUABMUsuarios.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmPRODProductos.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsFactura.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsFecha.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsltageneral.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsProducto.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsultas.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENDcliente.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENListaproductos.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENPrincipal.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.Resources.resources
+C:\Users\alan\Desktop\Hard completo-20171119T021134Z-001\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Proyecto HARD.vbproj.GenerateResource.Cache
+C:\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.exe.config
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD insumos informaticos.exe
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD insumos informaticos.xml
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD insumos informaticos.pdb
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIClientes.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIcuit.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIlistado.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIlocalidad.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmImpConsulCodPRODUCTOS.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmImpConsulDetalles.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmImpListado.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmPROVBusquedaLocalidadProv.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmPROVListadoProveedores.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmPROVProveedores.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmUSUBuscarUsuario.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmPRODBuscarCodProducto.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmPRODBuscarDetalle.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmPRODBuscarProducto.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmALLIngresoUsu.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmALLMenu.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmUSUABMUsuarios.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmPRODProductos.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsFactura.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsFecha.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsltageneral.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsProducto.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENConsultas.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENDcliente.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENListaproductos.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmVENPrincipal.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.Resources.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\Proyecto HARD.vbproj.GenerateResource.Cache
+C:\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.exe
+C:\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.pdb
+C:\Hard completo\Módulo Usuario\Módulo Usuario\bin\Debug\HARD insumos informaticos.xml
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.FrmCLIimpCuit.resources
+C:\Hard completo\Módulo Usuario\Módulo Usuario\obj\Debug\HARD_INSUMOS_INFORMATICOS.frmCLIimpLocalidad.resources
